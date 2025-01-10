@@ -1,0 +1,112 @@
+nav .a{
+font-weight: 800; font-size: 45px;
+}
+nav .b{
+    display: flex;list-style: none;align-items: center;
+}
+nav ul li{margin-right: 50px;}
+a{text-decoration: none; font-size: 20px; color: #474747;}
+
+.btn{background-color: #FD6E0A;font-weight: bold;font-size: 20px;color: white;padding: 18px 35px;border-radius: 5px;border: none; }
+nav{display: flex;align-items: center;justify-content: space-between;
+margin: 50px 200px;}
+/* // <uniquifier>: Use a unique and descriptive class name */
+/* // <weight>: Use a value from 300 to 800 */
+
+.c {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+.header{background-image: url('../images/developer.png') ,url('../images/header_bg.png');
+  background-repeat: no-repeat;background-position: top left,bottom right;
+
+}
+.x{display: flex;
+justify-content: space-between;margin: 0 38px 0 230px;
+}
+.st{
+  font-size: 45px;font-weight: 600px;color: #474747;
+}
+.t{
+  font-weight: bold;font-size: 85px;
+}
+.z{
+  font-size: 18px; color: #474747;
+}
+.img{
+  width: 580px;
+}
+.y{width: 580px;
+}
+/* about */
+.fa{
+  font-size: 35px;font-weight: bold;
+  color: black;
+}
+.ap{
+  font-size: 18px;color: #757575;
+}
+.sc{
+  background-color:gainsboro;
+}
+.main{max-width: 1140px;margin: 0 auto;}
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;margin-top: 130px;
+}
+.item-des{font-weight: bold;}
+.about-items{
+  display: flex;
+  justify-content: space-around;
+}
+.tc{text-align: center;}
+.container{display: flex; gap: 24px;}
+.box{padding: 30px;
+border-radius: 5px;
+box-shadow: 0px 6px 50px 0px rgba(0,0,0,0.06);}
+main section{
+  margin-top: 130px;
+  margin-bottom: 130px;
+}
+.recontain{
+  display: flex;gap: 24px;
+  
+}
+.resume{
+  margin: 0px auto;
+}
+.fat{
+  text-align: center;
+}
+.retitle{
+  font-weight: bold;font-size: 30px;margin-bottom: 30px;
+}
+.exti{
+  font-weight: bold;font-size: 25px;color: #757575;
+}
+.exsubti{
+  font-weight: 600;font-size: 20px;color: #757575;margin-bottom: 20px;
+}
+.exde{
+  font-size: 16px;color: gray;
+}
+.db{text-align: center;margin-top: 70px;}
+.fc{display: flex;}
+footer{ padding: 130px 230px;gap: 100px;}
+.footer-col{
+  width: 50%;
+}
+input[type="text"], input[type="email"], textarea{
+  height: 57px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+}
